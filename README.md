@@ -13,8 +13,6 @@ We do not collect or store personal user data on our own servers.
 
 However, the application uses third-party services that may process limited technical information required for the proper functioning of the app.
 
----
-
 ## 2. Third-Party Services
 
 ### Firebase
@@ -29,8 +27,6 @@ Firebase may process limited technical information including:
 
 This data is handled according to Google's privacy policies.
 
----
-
 ### RevenueCat
 
 The application uses RevenueCat to manage in-app purchases and subscriptions.
@@ -43,8 +39,6 @@ RevenueCat may process limited purchase-related information such as:
 
 This information is used only to validate and manage subscription access within the application.
 
----
-
 ## 3. AI Processing
 
 Some features of the application use artificial intelligence services to generate learning explanations, examples, or educational content.
@@ -52,8 +46,6 @@ Some features of the application use artificial intelligence services to generat
 When these features are used, user-provided text may be processed by external AI services to generate the requested output.
 
 This information is used only for generating responses and is not intentionally stored by the application.
-
----
 
 ## 4. Device Permissions
 
@@ -65,28 +57,20 @@ The application may access certain device features required for functionality, i
 
 These permissions are used only to enable core features of the application.
 
----
-
 ## 5. Data Sharing
 
 We do not sell, rent, or trade user data.
 
 Limited technical data may be processed by the third-party services listed in this policy strictly for the purpose of providing their functionality.
 
----
-
 ## 6. Children's Privacy
 
 The application is not intended to collect personal information from children under the age of 13.
-
----
 
 ## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.  
 Any changes will be reflected on this page with an updated revision date.
-
----
 
 ## 8. Contact
 
