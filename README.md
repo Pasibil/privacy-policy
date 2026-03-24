@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Last updated:** March 22, 2026
+**Last updated:** March 24, 2026
 
 Our application **Notivo – Spaced Repetition** respects your privacy.  
 This Privacy Policy explains what information may be processed when you use the application.
 
 ---
 
-## Information We Collect
+## 1. Information We Collect
 
 We do not collect or store personal user data on our own servers.
 
@@ -15,7 +15,7 @@ However, the application uses third-party services that may process limited tech
 
 ---
 
-## Third-Party Services
+## 2. Third-Party Services
 
 ### Firebase
 
@@ -45,7 +45,7 @@ This information is used only to validate and manage subscription access within 
 
 ---
 
-## AI Processing
+## 3. AI Processing
 
 Some features of the application use artificial intelligence services to generate learning explanations, examples, or educational content.
 
@@ -55,7 +55,7 @@ This information is used only for generating responses and is not intentionally 
 
 ---
 
-## Device Permissions
+## 4. Device Permissions
 
 The application may access certain device features required for functionality, including:
 
@@ -67,7 +67,7 @@ These permissions are used only to enable core features of the application.
 
 ---
 
-## Data Sharing
+## 5. Data Sharing
 
 We do not sell, rent, or trade user data.
 
@@ -75,20 +75,20 @@ Limited technical data may be processed by the third-party services listed in th
 
 ---
 
-## Children's Privacy
+## 6. Children's Privacy
 
 The application is not intended to collect personal information from children under the age of 13.
 
 ---
 
-## Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.  
 Any changes will be reflected on this page with an updated revision date.
 
 ---
 
-## Contact
+## 8. Contact
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
